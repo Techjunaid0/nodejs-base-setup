@@ -1,0 +1,15 @@
+{
+  "development": {
+    "username": "root",
+    "password": "12345678",
+    "database": "demowithauth",
+    "host": "localhost",
+    "dialect": "mysql",
+    "port": "3306",
+    "pool": {
+      "max": 5,
+      "min": 0
+    },
+    "logging": false
+  }
+}
